@@ -1,0 +1,7 @@
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main5\bin\Debug\Main5.exe.config
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main5\bin\Debug\Main5.exe
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main5\bin\Debug\Main5.pdb
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main5\obj\Debug\Main5.csprojAssemblyReference.cache
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main5\obj\Debug\Main5.csproj.CoreCompileInputs.cache
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main5\obj\Debug\Main5.exe
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main5\obj\Debug\Main5.pdb
