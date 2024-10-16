@@ -1,0 +1,6 @@
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main3\bin\Debug\Main3.exe.config
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main3\bin\Debug\Main3.exe
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main3\bin\Debug\Main3.pdb
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main3\obj\Debug\Main3.csproj.CoreCompileInputs.cache
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main3\obj\Debug\Main3.exe
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main3\obj\Debug\Main3.pdb

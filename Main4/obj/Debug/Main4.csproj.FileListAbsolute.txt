@@ -1,0 +1,10 @@
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\bin\Debug\Main4.exe.config
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\bin\Debug\Main4.exe
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\bin\Debug\Main4.pdb
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\bin\Debug\System.ValueTuple.dll
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\bin\Debug\System.ValueTuple.xml
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\obj\Debug\Main4.csprojAssemblyReference.cache
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\obj\Debug\Main4.csproj.CoreCompileInputs.cache
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\obj\Debug\Main4.csproj.CopyComplete
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\obj\Debug\Main4.exe
+C:\Users\esmaa\OneDrive\Belgeler\Solution1\Main4\obj\Debug\Main4.pdb
